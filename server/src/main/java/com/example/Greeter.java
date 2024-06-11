@@ -2,8 +2,8 @@ package com.example;
 
 
 import java.lang.Math;
-import java.io.* ;
-import java.io.* ;
+// import java.io.* ;
+// import java.io.* ;
 /**
 * this is a Class
 */
@@ -22,7 +22,8 @@ public class Greeter {
  * @return greeting string
  */
   public final String greet(final String someone) {
-    return String.format("Hello babacar, %s!", someone);
+   // return statics String
+    return String.format("Hello World, %s!", someone);
    
  }
 }
