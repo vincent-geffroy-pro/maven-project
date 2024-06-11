@@ -2,8 +2,6 @@ package com.example;
 
 
 import java.lang.Math;
-// import java.io.* ;
-// import java.io.* ;
 /**
 * this is a Class
 */
@@ -15,6 +13,7 @@ public class Greeter {
   */
  
   public Greeter() {
+   // contructeur par défaut
   }
 
  /**
@@ -22,8 +21,7 @@ public class Greeter {
  * @return greeting string
  */
   public final String greet(final String someone) {
-   // return statics String
-    return String.format("Hello World, %s!", someone);
+   return String.format("Hello World, %s!", someone);
    
  }
 }
