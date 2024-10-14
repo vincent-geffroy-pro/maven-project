@@ -2,7 +2,7 @@ package com.example;
 
 import java.lang.Math;
 /**
-* this is a Class
+* this is a defaut Class constructor
 */
 
 public class Greeter {
