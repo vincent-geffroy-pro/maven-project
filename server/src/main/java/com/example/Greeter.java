@@ -1,6 +1,13 @@
 package com.example;
 
 import java.lang.Math;
+
+import java.lang.*;
+
+/**
+* this is a defaut Class constructor
+*/
+
 /**
 * this is a defaut Class constructor
 */
@@ -16,6 +23,14 @@ public class Greeter {
   }
 
    public void doSomeThing() {
+   // do no thing yet !
+  }
+
+  public void doSomeThing1() {
+   // do no thing yet !
+  }
+
+  public void doSomeThing2() {
    // do no thing yet !
   }
 
